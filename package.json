@@ -1,0 +1,19 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "industry ready code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "js",
+    "data",
+    "modeling"
+  ],
+  "author": "big boss",
+  "license": "ISC"
+}
