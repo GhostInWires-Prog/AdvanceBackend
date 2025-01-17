@@ -1,0 +1,6 @@
+foreach ($dir in "Controllers", "db", "middlewares", "models", "routes", "utils") {
+    mkdir $dir
+}
+
+
+touch index.js app.js .env
